@@ -1,0 +1,6 @@
+Day 1(Linux)
+-Installed Git
+-Logged into Github
+-Cloned exixting repository
+-Learned basic Git workflow
+
