@@ -1,0 +1,4 @@
+Day 3(windows)
+-Insatll Git on windows
+-Connected to existing GitHub repo
+-Working from third machine
