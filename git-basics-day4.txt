@@ -1,0 +1,6 @@
+Day 4: Understanding Git Core Concepts
+
+1. Git tracks changes using snapshots.
+2. git add moves changes to staging.
+3. git commit creates a snapshot.
+4. git push sends commits to GitHub.
